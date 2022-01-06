@@ -1,0 +1,17 @@
+.header{
+    color:blue;
+    background:tomato;
+
+    margin: 8px;
+    padding: 8px;
+}
+
+h1{
+    background:yellow;
+    color:white;
+}
+
+#id1{
+    background:chartreuse;
+    color:red;
+}

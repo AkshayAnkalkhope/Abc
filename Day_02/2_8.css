@@ -1,0 +1,22 @@
+.header {
+    color: white;
+    background: royalblue;
+  
+    margin: 8px; /** BETWEEN THE ELEMNTSs */
+    padding: 8px; /** WITHING BOX **/
+}
+
+.centered{
+display: block;
+margin-left:auto;
+margin-right: auto;
+width: 15%
+
+}
+
+.img {
+  width: 50px;
+  height: 50px;
+  object-fit: fill;
+  border-radius: 50%;
+}
